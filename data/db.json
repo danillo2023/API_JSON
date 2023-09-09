@@ -1,0 +1,46 @@
+{
+  "produtos": [
+    {
+      "nome": "Notebook 2023",
+      "valor": "7000",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "nome": "Notebook 2",
+      "valor": 2000
+    },
+    {
+      "nome": "Tv Smart 60",
+      "valor": "2000",
+      "id": 4
+    },
+    {
+      "nome": "Tv Smart 60",
+      "valor": "2000",
+      "id": 5
+    },
+    {
+      "nome": "Tv Smart 60",
+      "valor": "2000",
+      "id": 6
+    }
+  ],
+  "clientes": [
+    {
+      "id": 1,
+      "nome": "Aline 1",
+      "email": "Aline@gmail.com"
+    },
+    {
+      "id": 2,
+      "nome": "Beto 2",
+      "email": "betovieira@terra.com"
+    },
+    {
+      "id": 3,
+      "nome": "Mateus 3",
+      "email": "mateus@hotmail.com"
+    }
+  ]
+}
